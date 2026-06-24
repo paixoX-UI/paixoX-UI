@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, i'm epsync</h1>
+<h3 align="center">🌱 Beginner Developer | Learning Step by Step</h3>
 
-<!--
-**paixoX-UI/paixoX-UI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Still+learning+to+code;Growing+little+by+little+every+day" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌌 About Me
+
+- 🌱 i'm currently learning programming from scratch  
+- 💻 Exploring basic **Web Development & JavaScript**  
+- 🎯 Building small projects to improve my skills  
+- 📚 Learning consistently and enjoying the process  
+
+> 🚀 Every expert was once a beginner.
+
+---
+
+## 🛠 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=than-xs&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=than-xs&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="https://t.me/thanror">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A1A1A"/>
+  </a>
+</p>
+
+<p align="center">
+  💬 Open for learning together & beginner collaborations 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2CA5E0&height=100&section=footer"/>
+</p>
+
+---
+
+## 🎯 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=than-xs&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile ✨
+</p>
